@@ -5,6 +5,7 @@ import News from "./src/screens/News";
 import Favorites from "./src/screens/Favorites";
 import Events from "./src/screens/Events";
 import Historic from "./src/screens/Historic";
+import HeaderHome from "./src/components/header-inicio";
 
 // 2º Criando a navegação
 import { createNativeStackNavigator } from "@react-navigation/native-stack";
